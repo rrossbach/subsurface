@@ -1,4 +1,4 @@
 [submodule "libdivecomputer"]
 	path = libdivecomputer
-	url = git://github.com/Subsurface/libdc.git
-	branch = Subsurface-NG
+	url = git://github.com/rrossbach/libdc.git
+	branch = fork-Deep6Excursion 
